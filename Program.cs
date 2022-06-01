@@ -6,7 +6,7 @@ namespace GitGithubExample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Satyagopal");
+            Console.WriteLine("Hello World! Satyagopal {0}", 0/(Double)0);
         }
     }
 }
